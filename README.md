@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Fedir
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning JS, CSS, React, Angular, PHP
+- 🌱 I’m currently learning JS, TS, CSS, React, Angular, PHP
+- 🧠 Also i have knowledge of C (C++ and C#) , DataBase - MySQL
 - 📫 How to reach me pluserwork24@gmail.com or federikomelnik@gmail.com, in instagram you can find by felix.melnyk, Facebook - Fedir Melnyk
