@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fedir
+- 👋 Hi, I’m Fedir Melnyk
 - 👀 I’m interested in Software development
 - 📫 How to reach me federikomelnik@gmail.com, Facebook - Fedir Melnyk
 
